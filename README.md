@@ -1,4 +1,4 @@
-<!-- ![yeasin's cover](kawser.png)  -->
+ <!-- ![yeasin's cover](kawser.png)  -->
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Dev%20Yeasin&height=150&section=header" alt="Yeasin..." /> -->
 
   <h1 align="center"> Hi, I'm Tanvir Ahmed</h1>
@@ -35,7 +35,7 @@ Skill✌️ </h4>
 
 
 <a href="">
-    <img src="https://img.shields.io/badge/Email_me-323330?style=for-the-badge&logo=Gmail&logoColor=white" />
+    <img src="[https://img.shields.io/badge/Email_me-323330?style=for-the-badge&logo=Gmail&logoColor=white](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)" />
 </a>
 
  <a href="https://www.linkedin.com/in/yeasin2002/">
@@ -83,9 +83,6 @@ Skill✌️ </h4>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yeasin-2002&show_icons=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yeasin-2002&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/yeasin2002)](https://leetcode.com/yeasin2002)
 
 </details>
 
