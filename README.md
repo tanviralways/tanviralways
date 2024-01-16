@@ -38,10 +38,10 @@
 </p>
 <br>
 
-### :mailbox: Reach me out
+## :mailbox: Reach me out
 
-<br >
-<br>
+
+<br/>
 
 <p align="center">
 <a href="">
