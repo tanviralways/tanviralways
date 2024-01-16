@@ -1,20 +1,13 @@
- <!-- ![yeasin's cover](kawser.png)  -->
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Dev%20Yeasin&height=150&section=header" alt="Yeasin..." /> -->
-
-  <h1 align="center"> Hi, I'm Tanvir Ahmed</h1>
-  <h4 align="center">  I’m a front-end web developer. . My goal is to create user-friendly and visually appealing web applications that leave a lasting impression.
-
-Skill✌️ </h4>
- 
+  <h1 align="center"> Tanvir Ahmed</h1>
+  <h4 align="center">  I’m a front-end web developer </h4>
 
  </br>
 
-##### Currently, **I'm open to work and employment opportunities near Dhaka or Remote**.  [Download My CV](https://drive.google.com/file/d/1pLKyzj2BLvAKvWZCmg7OIhOWcydbO1xT/view?usp=sharing)
+##### Currently, **I'm open to work and employment opportunities near Dhaka or Remote**. [Download My CV](https://drive.google.com/file/d/1pLKyzj2BLvAKvWZCmg7OIhOWcydbO1xT/view?usp=sharing)
 
-
-- 💬 Loves to Talk about Technology, Software, Coding, And Ideas 
+- 💬 Loves to Talk about Technology, Software, Coding, And Ideas
 - 🤝 Open for Collaboration, Excited to collaborate on innovative projects.
-- 🌱 currently learning many things Such as Nextjs, JavaScript, and TypeScript Fundamentals & Advance and  Back-End with Node/express
+- 🌱 currently learning many things Such as Nextjs, JavaScript, and TypeScript Fundamentals & Advance and Back-End with Node/express
 - 🏫 We have a great community called [wd hive](https://github.com/wdhive) , Also have [Messenger](https://l.messenger.com/l.php?u=https%3A%2F%2Fm.me%2Fj%2FAbYRqd07CPovLcls%2F&h=AT3omrCWUUMjE7qdoriL7gyIBQllWEPuFFSKeL1j7ywpWMAZX-x6rCaRmzsT9zjRihEcl2wwa549Z0gS-t3smUB1DQ9H3kjRPA1LWiBqtkedfdFnxaoMeTLho7TMLNiF95L5GA) group where greeks help each other since last two year.
 
 ## :computer: Technologies that I know
@@ -24,37 +17,30 @@ Skill✌️ </h4>
 <img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/css.png"/>
 <img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/python.png"/>
-<img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/c.png"/>
-<img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/cpp.png"/>
+
+<img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/react.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/react.png"/>
-<img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/redux.png"/>
+
 <img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/sass.png"/>
 <img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/tailwind.png"/>
 <img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/Bootsrap.png"/>
 <img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/firebase.png"/>
 </p>
-<p align="center">
-<img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/node.png"/>
-<img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/express.png"/>
-<img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/mongo.png"/>
-</p><br/>
-
-
-
+<br/>
 
 #### Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,vite" /> 
+<br />
 
+<p align="center">
+<img  src="https://skillicons.dev/icons?i=vscode,figma,vite" />
+</p>
+## :mailbox: Reach me out
 
+<br />
 
-
-#### Contact Info
-
-
+<p align="center">
 <a href="">
    <img alt="Alt text" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
@@ -62,36 +48,17 @@ Skill✌️ </h4>
  <a href="">
        <img alt="Alt text" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
     </a>
+ 
+ 
+ <a href="">
+       <img alt="Alt text" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+ </a>
  <a href="https://www.facebook.com/tanvirahmedpartho/">
         <img alt="Alt text" src="https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
     </a>
- 
-<a href="">
-       <img alt="Alt text" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-    </a>
-
-
-   
+</p>
 
 <br  />
-
-<!-- 
-
-####  🚀 PROJECTS 
-- [Amader Bazar](https://amaderbazar.netlify.app/) - E-Commerce
-- [Crunchy Carriage](https://crunchy-carriage.netlify.app/) - Food Service 
-
- [Click here to see all](https://yeasin2002.netlify.app/projects)
-  
-
-
- #### 🔥  OPEN SOURCE CONTRIBUTIONS
- -  Title   [Live](https://***/), [GitHub Repo](), [PR](), [Issue]()  
- -->
-
-
-
-
 
 <details >
 <summary> 
@@ -106,7 +73,5 @@ Skill✌️ </h4>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yeasin-2002&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </details>
-
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&fontSize=20"  /></p>
