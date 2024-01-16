@@ -38,15 +38,15 @@ Skill✌️ </h4>
    <img alt="Alt text" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 
- <a href="https://www.linkedin.com/in/yeasin2002/">
-       <img src="[https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)" />
+ <a href="">
+       <img alt="Alt text" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
     </a>
- <a href="https://www.facebook.com/yeasin2002.dev/">
-       <img src="[https://img.shields.io/badge/Facebook-323330?style=for-the-badge&logo=facebook&logoColor=white](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)" />
+ <a href="https://www.facebook.com/tanvirahmedpartho/">
+        <img alt="Alt text" src="https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
     </a>
  
 <a href="">
-       <img src="[https://img.shields.io/badge/Twitter-323330?style=for-the-badge&logo=twitter&logoColor=white](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)" />
+       <img alt="Alt text" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
     </a>
 
 
