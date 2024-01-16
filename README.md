@@ -17,9 +17,30 @@ Skill✌️ </h4>
 - 🌱 currently learning many things Such as Nextjs, JavaScript, and TypeScript Fundamentals & Advance and  Back-End with Node/express
 - 🏫 We have a great community called [wd hive](https://github.com/wdhive) , Also have [Messenger](https://l.messenger.com/l.php?u=https%3A%2F%2Fm.me%2Fj%2FAbYRqd07CPovLcls%2F&h=AT3omrCWUUMjE7qdoriL7gyIBQllWEPuFFSKeL1j7ywpWMAZX-x6rCaRmzsT9zjRihEcl2wwa549Z0gS-t3smUB1DQ9H3kjRPA1LWiBqtkedfdFnxaoMeTLho7TMLNiF95L5GA) group where greeks help each other since last two year.
 
-#### Skills
- <!-- ![Specialized In](https://skillicons.dev/icons?i=ts,next,tailwind,redux,zustand) -->
-<img src="https://skillicons.dev/icons?i=ts,next,tailwind,redux" /> <img src="./public/icons/zustand.svg" width="50" /> <img src="./public/icons/react-query.svg" width="50" />
+## :computer: Technologies that I know
+
+<br>
+<p align="center">
+<img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/css.png"/>
+<img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/python.png"/>
+<img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/c.png"/>
+<img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/cpp.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/react.png"/>
+<img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/redux.png"/>
+<img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/sass.png"/>
+<img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/Bootsrap.png"/>
+<img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/firebase.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/node.png"/>
+<img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/express.png"/>
+<img src="https://github.com/tanviralways/tanviralways/blob/main/images/icons/mongo.png"/>
+</p><br/>
 
 
 
