@@ -36,9 +36,11 @@
 <p align="center">
 <img  src="https://skillicons.dev/icons?i=vscode,figma,vite" />
 </p>
+<br>
 ## :mailbox: Reach me out
 
 <br />
+<br>
 
 <p align="center">
 <a href="">
