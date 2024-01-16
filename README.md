@@ -35,7 +35,7 @@ Skill✌️ </h4>
 
 
 <a href="">
-   <img alt="Alt text" src="<[copied link](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)>"/>
+   <img alt="Alt text" src="<https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white>"/>
 </a>
 
  <a href="https://www.linkedin.com/in/yeasin2002/">
