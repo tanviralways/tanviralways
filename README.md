@@ -1,8 +1,10 @@
 <!-- ![yeasin's cover](kawser.png)  -->
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Dev%20Yeasin&height=150&section=header" alt="Yeasin..." /> 
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Dev%20Yeasin&height=150&section=header" alt="Yeasin..." /> -->
 
-  <h1 align="center"> Hi, I'm Md Kawsar Islam Yeasin</h1>
-  <h4 align="center">  I’m a front-end web developer From Dhaka, Bangladesh, also familiar with the Back End. I convert coffee into Code ✌️ </h4>
+  <h1 align="center"> Hi, I'm Tanvir Ahmed</h1>
+  <h4 align="center">  I’m a front-end web developer. . My goal is to create user-friendly and visually appealing web applications that leave a lasting impression.
+
+Skill✌️ </h4>
  
 
  </br>
@@ -34,26 +36,22 @@
 
 
 <a href="mailto:mdkawsarislam2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email_me-323330?style=for-the-badge&logo=Gmail&logoColor=white" />
+    <img src[="https://img.shields.io/badge/Email_me-323330?style=for-the-badge&logo=Gmail&logoColor=white](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)" />
 </a>
-<a href="https://yeasin2002.netlify.app/">
-   <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
-</a>
+
  <a href="https://www.linkedin.com/in/yeasin2002/">
-       <img src="https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=white" />
+       <img src="[https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)" />
     </a>
  <a href="https://www.facebook.com/yeasin2002.dev/">
-       <img src="https://img.shields.io/badge/Facebook-323330?style=for-the-badge&logo=facebook&logoColor=white" />
+       <img src="[https://img.shields.io/badge/Facebook-323330?style=for-the-badge&logo=facebook&logoColor=white](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)" />
     </a>
  
-<a href="https://twitter.com/yeasin2002_dev">
-       <img src="https://img.shields.io/badge/Twitter-323330?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-<a href="https://leetcode.com/yeasin2002">
-       <img src="https://img.shields.io/badge/leetcode-323330?style=for-the-badge&logo=leetcode&logoColor=white" />
+<a href="">
+       <img src="[https://img.shields.io/badge/Twitter-323330?style=for-the-badge&logo=twitter&logoColor=white](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)" />
     </a>
 
-    
+
+   
 
 <br  />
 
