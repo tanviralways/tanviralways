@@ -69,11 +69,11 @@
     
 </summary>
 <br>
-<!-- [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin-2002)](https://github.com/anuraghazra/github-readme-stats)  -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=tanviralways)](https://github.com/ryo-ma/github-profile-trophy)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yeasin-2002&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanviralways)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yeasin-2002&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=tanviralways)  
 
 </details>
 
