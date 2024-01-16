@@ -20,11 +20,5 @@ Skills: JS / REACT /  Tailwind CSS / Bootstap
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanviralways)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanviralways&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/tanviralways/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/tanviralways)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=tanviralways)  
 
