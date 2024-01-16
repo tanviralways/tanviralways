@@ -29,7 +29,7 @@
 </p>
 <br/>
 
-#### Tools
+#### :tool: Tools
 
 <br />
 
@@ -37,9 +37,10 @@
 <img  src="https://skillicons.dev/icons?i=vscode,figma,vite" />
 </p>
 <br>
-## :mailbox: Reach me out
 
-<br />
+### :mailbox: Reach me out
+
+<br >
 <br>
 
 <p align="center">
