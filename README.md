@@ -1,5 +1,5 @@
   <h1 align="center"> Tanvir Ahmed</h1>
-  <h4 align="center">  I’m a front-end web developer </h4>
+  <h4 align="center">  I’m a Front-End Web Developer </h4>
 
  </br>
 
