@@ -34,8 +34,8 @@
 <br />
 
 <p align="center">
-<img  src="https://skillicons.dev/icons?i=vscode,figma,vite,notion" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" />
+<img  src="https://skillicons.dev/icons?i=vscode,figma,vite" />
+ 
 </p>
 <br>
 
