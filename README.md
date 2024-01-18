@@ -34,7 +34,7 @@
 <br />
 
 <p align="center">
-<img  src="https://skillicons.dev/icons?i=vscode,figma,vite" />
+<img  src="https://skillicons.dev/icons?i=vscode,figma,vite,notion" />
 </p>
 <br>
 
